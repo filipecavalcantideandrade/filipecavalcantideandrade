@@ -12,7 +12,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipecavalcantideandrade&show_icons=true&theme=nord&locale=pt-br&layout=compact" alt="filipecavalcantideandrade" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipecavalcantideandrade&theme=nord&locale=pt-br&layout=compact" alt="filipecavalcantideandrade" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/filipecavalcantideandrade" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="filipecavalcantideandrade" /></a></p>
